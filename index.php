@@ -37,7 +37,7 @@
         const taskURLs = {
             1: 'task1.php',
             2: 'task2.php',
-            3: 'task3.php'
+            3: 'task3.html'
         };
 
         const url = taskURLs[taskNumber];
